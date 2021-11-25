@@ -71,6 +71,19 @@ body{
 	margin: auto;
 }
 
+.descripcion-modal{
+	font-size: 25px;
+	text-align: center;
+	color: white;
+	background: blue;
+}
+
+.descripcion-modal p{
+	font-weight: 200;
+	margin-top: 10px;
+	padding: 20px;
+}
+
 #enpod{
 	margin: auto!important;
 	text-align: center!important;
