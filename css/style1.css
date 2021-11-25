@@ -118,6 +118,35 @@ body{
 	margin-bottom: 10px;
 }
 
+#contenedor-texto-action{
+	text-align: center;
+}
+
+#contenedor-texto-action p{
+		padding: 10px;
+		font-size: 16px;
+	}
+
+#contenedor-gif{
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#contenedor-gif img{
+	
+	width: 80%;
+	height: auto;
+}
+
+#contenedor-action{
+	margin: 50px 0;
+}
+
+#contenedor-botones-action{
+	margin-top: 40px;
+}
+
+
 #educacion-tabla{
 	width: 100%;
 	height: auto;
@@ -133,6 +162,7 @@ body{
 	margin-bottom: 10px;
 	font-size: 19px;
 }
+
 
 #contenedor-sobremi{
 	padding: 30px;
@@ -355,6 +385,10 @@ footer a:hover{
 	
 	#container-tarjetas-testimonios{
 		margin-bottom: 150px;
+	}
+	
+	#contenedor-texto-action p{
+		font-size: 20px;
 	}
 }
 
