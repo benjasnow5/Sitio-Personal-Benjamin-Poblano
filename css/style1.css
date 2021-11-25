@@ -1,0 +1,364 @@
+@charset "utf-8";
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/font/bootstrap-icons.css");
+@import url('http://fonts.cdnfonts.com/css/graphik');
+
+
+
+/* 
+========= FONT ========== 
+*/
+
+
+
+/* 
+========= TERMINA FONT ========== 
+*/
+
+
+/* 
+========= NAV ========== 
+*/
+
+.nav-fondo {
+	background-color: white !important;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.nav-fondo a{
+	color: #0000FE !important;
+}
+
+/* 
+========= TERMINA NAV ========== 
+*/
+
+/* 
+========= BODY ========== 
+*/
+
+body{
+	font-family: 'Graphik', sans-serif;
+}
+
+#barra{
+	color: #0000FE;
+	height: 1px;
+}
+
+/* 
+========= TERMINA BODY ========== 
+*/
+
+/* 
+========= PRINCIPAL ========== 
+*/
+
+#titulo-main{
+	text-align: center;
+}
+
+.seccion-principal{
+	text-align: center;
+}
+
+.seccion-principal{
+	align-content: center;
+}
+
+.titulo-categoria-galeria{
+	text-align: center;
+	margin: auto;
+}
+
+#enpod{
+	margin: auto!important;
+	text-align: center!important;
+}
+
+#enpod2{
+	margin: auto!important;
+	text-align: center!important;
+}
+
+
+#peso-visual{
+	margin: auto!important;
+	text-align: center!important;
+}
+
+#container-principal{
+	text-align: center;
+}
+
+#contenedor-botones{
+	margin-bottom: 30px;
+}
+
+#container-principal button{
+	background-color: #0000FE;
+}
+
+#contenedor-botones-cv{
+	padding: 40px;
+}
+
+#contenedor-botones-cv a{
+	text-decoration: none;
+}
+
+#contenedor-botones-cv button{
+	background-color: #0000FE;
+}
+
+#contenedor-valores{
+	color: #FFFFFF;
+	padding: 30px;
+    background-color: #0000FE;
+	margin-bottom: 10px;
+}
+
+#educacion-tabla{
+	width: 100%;
+	height: auto;
+}
+.subtitulo-valores{
+	font-family: Recoleta, "Recoleta Alt", "Recoleta Alt Black", "Recoleta Alt Bold", "Recoleta Alt Light", "Recoleta Alt Medium", "Recoleta Alt SemiBold", "Recoleta Alt Thin", "Recoleta Black", "Recoleta Bold", "Recoleta Light", "Recoleta Medium", "Recoleta SemiBold", "Recoleta Thin";
+}
+
+#contenedor-valores ul{
+	justify-content: center;
+	text-align: center;
+	margin-right: 35px;
+	margin-bottom: 10px;
+	font-size: 19px;
+}
+
+#contenedor-sobremi{
+	padding: 30px;
+	margin-bottom: 20px;
+}
+
+.titulo-perfil{
+	font-family:Recoleta, "Recoleta Alt", "Recoleta Alt Black", "Recoleta Alt Bold", "Recoleta Alt Light", "Recoleta Alt Medium", "Recoleta Alt SemiBold", "Recoleta Alt Thin", "Recoleta Black", "Recoleta Bold", "Recoleta Light", "Recoleta Medium", "Recoleta SemiBold", "Recoleta Thin";
+	font-style: Bold;
+}
+
+#texto-perfil{
+	padding: 35px;
+}
+
+#titulo-sobremi{
+	font-family:Recoleta, "Recoleta Alt", "Recoleta Alt Black", "Recoleta Alt Bold", "Recoleta Alt Light", "Recoleta Alt Medium", "Recoleta Alt SemiBold", "Recoleta Alt Thin", "Recoleta Black", "Recoleta Bold", "Recoleta Light", "Recoleta Medium", "Recoleta SemiBold", "Recoleta Thin";
+	text-align: left;
+}
+
+#texto-sobremi{
+	text-align: left;
+}
+
+#titulo-perfilprofesional{
+	font-family:Recoleta, "Recoleta Alt", "Recoleta Alt Black", "Recoleta Alt Bold", "Recoleta Alt Light", "Recoleta Alt Medium", "Recoleta Alt SemiBold", "Recoleta Alt Thin", "Recoleta Black", "Recoleta Bold", "Recoleta Light", "Recoleta Medium", "Recoleta SemiBold", "Recoleta Thin";
+	text-align: left;
+}
+
+#texto-perfilprofesional{
+	text-align: left;
+}
+
+
+#logo-presentacion{
+	margin-top: 15px;
+	height: 200px;
+	width: 200px;
+}
+
+#texto-presentacion{
+	padding: 40px;
+	font-size: 30px;
+	
+}
+
+#subtexto-presentacion{
+	font-size: 20px;
+}
+
+#contenedor-botones a{
+	text-decoration: none;
+}
+
+#imagen-yo{
+	padding: 15px;
+	width: 250px;
+	height: auto;
+}
+
+.reconocimiento-elemento{
+	padding: 25px;
+	width: auto;
+	height: auto;
+}
+
+#lista-redes{
+	text-align: center;
+}
+
+ul{
+	text-align: center;
+	text-decoration: none;
+}
+
+ul a{
+	text-decoration: none;
+}
+
+ul li{
+	list-style: none;
+}
+
+/* 
+========= TERMINAR PRINCIPAL ========== 
+*/
+
+/* 
+========= FOOTER ========== 
+*/
+
+
+
+#footer{
+	background-color: #231F20;
+}
+
+#footer ul a li{
+	color: #FFFFFF !important;
+}
+
+/* 
+========= TERMINA FOOTER ========== 
+*/
+
+
+/* 
+========= ESTADOS ========== 
+*/
+
+nav a:visited {
+	color: #FE0000 !important;
+	font-style: italic !important;
+	font-weight: 500;
+}
+
+nav a:visited {
+	color: #FE0000 !important;
+	font-style: italic !important;
+	font-weight: 500;
+}
+
+nav a:active {
+	font-weight: 800 !important;
+	 
+}
+nav a:hover {
+	color: #ABFF00 !important;
+	font-style: italic;
+	font-weight: 500;
+}
+
+footer a:hover{
+	color: #ABFF00 !important;
+}
+
+/* 
+========= TERMINA ESTADOS ========== 
+*/
+
+
+/* 
+========= MEDIA QUERIES ========== 
+*/
+@media (min-width: 992px){
+	
+	
+	
+	#texto-presentacion{
+		margin-left: -180px;
+		text-align: left;
+	}
+
+	#logo-presentacion{
+		margin-top: 50px;
+		width: 270px;
+		height: 270px;
+	}
+	
+	#contenedor-educaciontabla{
+		margin-top: 35px;
+		height: 50%;
+		width: 50%;
+	}
+	
+	#contenedor-botones{
+		margin-top: -50px;
+	}
+	
+	#imagen-yo{
+		margin-left: -120px;
+		padding: 0px;
+		height: auto;
+		width: 350px;
+	}
+	
+	.titulo-perfil{
+		text-align: left;
+	}
+	
+	.texto-perfil{
+		text-align: left;
+	}
+	
+	#texto-perfil{
+		padding-left: 90px;
+		padding-right: 90px;
+		margin-left: -200px;
+	}
+	
+	#contenedor-sobremi{
+		padding-left: 130px;
+		padding-right: 90px;
+	}
+	
+	#contenedor-botones-cv{
+		padding: 40px;
+		text-align: center;
+		margin: auto;
+	}
+	
+	#enpod{
+		width: 1020px;
+	}
+	
+	#enpod2{
+		width: 1020px;
+	}
+	
+	#peso-visual{
+		width: 1020px;
+	}
+}
+
+@media (min-width: 1500px){
+	#container-principal{
+		margin-top: 150px;
+		margin-bottom: 550px;
+	}
+	
+	#container-tarjetas-testimonios{
+		margin-bottom: 150px;
+	}
+}
+
+/* 
+========= TERMINA MEDIA QUERIES ========== 
+*/
+
